@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"AES_Functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"AES_Functions",
+  "parent":{
+    "name":"AES",
+    "path":"AES.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

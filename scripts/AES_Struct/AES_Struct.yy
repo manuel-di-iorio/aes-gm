@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"AES",
+  "%Name":"AES_Struct",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"AES",
+  "name":"AES_Struct",
   "parent":{
     "name":"AES",
     "path":"AES.yyp",

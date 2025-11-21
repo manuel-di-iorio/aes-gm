@@ -20,7 +20,8 @@
   "name":"AES",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"AES","path":"scripts/AES/AES.yy",},},
+    {"id":{"name":"AES_Functions","path":"scripts/AES_Functions/AES_Functions.yy",},},
+    {"id":{"name":"AES_Struct","path":"scripts/AES_Struct/AES_Struct.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
